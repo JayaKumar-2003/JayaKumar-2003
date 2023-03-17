@@ -6,7 +6,7 @@
   </head>
   <body>
     <div id="header" align="center" >
-   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200" height="200"/>
+   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="1000" height="1000"/>
   
 </div>
     <div class="social" align="center">
