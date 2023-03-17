@@ -1,1 +1,4 @@
-<a href="https://contentstatic.techgig.com/photo/88068261/you-dont-need-coding-skills-to-become-web-developer-heres-why.jpg?21764"><img align="center" height="100" /></a>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
