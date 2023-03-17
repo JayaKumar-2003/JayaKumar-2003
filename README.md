@@ -1,1 +1,1 @@
-<a href="https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281.htm" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="https://contentstatic.techgig.com/photo/88068261/you-dont-need-coding-skills-to-become-web-developer-heres-why.jpg?21764"><img align="center" height="100" /></a>
