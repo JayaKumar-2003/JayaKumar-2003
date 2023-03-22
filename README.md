@@ -33,8 +33,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayaKumar-2003&show_icons=true&locale=en&layout=compact" alt="jawaharsrinivas" /></p>
+    <p>Hi there! My name is Jayakumar, and I'm a recent graduate from Kongu Engineering College with a degree in BE-Computer Science and Engineering. While I'm new to the industry, I'm excited to learn and grow as a Full Stack Developer or some developer.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayaKumar-2003&show_icons=true&locale=en" alt="jawaharsrinivas" /></p>
+My coursework and projects have given me experience with [HTML,CSS,MERN], and I'm eager to apply these skills in a real-world setting. I'm particularly interested in DBMS,OS, and I'm always looking for new opportunities to expand my knowledge and gain experience.
+
+In my free time, I enjoy listening music. I'm excited to join the GitHub community and connect with other developers and professionals in my field. Please feel free to reach out to me if you have any advice or opportunities you'd like to share!
+
+
+</p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayaKumar-2003&show_icons=true&locale=en&layout=compact" alt="jayakumar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayaKumar-2003&show_icons=true&locale=en" alt="jayakumar" /></p>
   </body>
 </html>
