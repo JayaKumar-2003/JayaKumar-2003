@@ -15,10 +15,10 @@
    <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
 </div>
     <div align="center">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+     <a href="https://www.facebook.com/profile.php?id=100014515151690&mibextid=ZbWKwL"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+      <a href="https://instagram.com/jayakumar8113?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+     <a href="https://twitter.com/JayaKum29613536?t=7fuKI77vJR_8WGNbaXJIzQ&s=09"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     </div>
     <h1>Languages and Tools</h1>
    <div align="center">
