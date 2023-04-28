@@ -7,12 +7,12 @@
   <body>
     <div align="center">
        <h1>
-       hey there I am JayaKumar
+       Hey there I am JayaKumar
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
         </h1>
     </div>
     <div id="header" align="center" >
-   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
     <div align="center">
      <a href="https://www.facebook.com/profile.php?id=100014515151690&mibextid=ZbWKwL"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
